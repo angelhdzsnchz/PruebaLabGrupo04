@@ -2,11 +2,11 @@
 
 main{
 
-/*Sección de variables*/
+ /*Sección de variables*/
 
 
 
-  /*Fin de Sección de variables*/
+/*Fin de Sección de variables*/
 
   }
   
